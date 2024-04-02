@@ -9,7 +9,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">KARDS</a>
+		         <a href="index.html">Portfolio</a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">

@@ -23,7 +23,7 @@
 
          <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/liberty.jpg" alt="Liberty">
+               <img src="/src/assets/portfolio/liberty.jpg" alt="Liberty">
               <a href="#modal-01" class="overlay">	                  	           
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -39,7 +39,7 @@
 
             <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+               <img src="/src/assets/portfolio/shutterbug.jpg" alt="Shutterbug">
                <a href="#modal-02" class="overlay">              		                  
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -55,7 +55,7 @@
 
         <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/clouds.jpg"alt="Clouds">
+               <img src="/src/assets/portfolio/clouds.jpg"alt="Clouds">
               <a href="#modal-03" class="overlay">             		                  
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -71,7 +71,7 @@
 
         <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/beetle.jpg" alt="Beetle">
+               <img src="/src/assets/portfolio/beetle.jpg" alt="Beetle">
               <a href="#modal-04" class="overlay">                  	                 
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -87,7 +87,7 @@
 
             <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+               <img src="/src/assets/portfolio/lighthouse.jpg" alt="Lighthouse">
               <a href="#modal-05" class="overlay">             		                  
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -103,7 +103,7 @@
 
         <div class="bgrid folio-item">
            <div class="item-wrap">
-               <img src="images/portfolio/salad.jpg" alt="Salad">
+               <img src="/src/assets/portfolio/salad.jpg" alt="Salad">
               <a href="#modal-06" class="overlay">
                  <div class="folio-item-table">
                      <div class="folio-item-cell">
@@ -120,7 +120,7 @@
         <div id="modal-01" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+                     <img src="/src/assets/portfolio/liberty.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -140,7 +140,7 @@
            <div id="modal-02" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+                     <img src="/src/assets/portfolio/shutterbug.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -160,7 +160,7 @@
            <div id="modal-03" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+                     <img src="/src/assets/portfolio/clouds.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -180,7 +180,7 @@
            <div id="modal-04" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+                     <img src="/src/assets/portfolio/beetle.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -200,7 +200,7 @@
            <div id="modal-05" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+                     <img src="/src/assets/portfolio/lighthouse.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -220,7 +220,7 @@
            <div id="modal-06" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+                     <img src="/src/assets/portfolio/salad.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
