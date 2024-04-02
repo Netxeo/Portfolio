@@ -12,10 +12,10 @@
         <div class="col-twelve">
 
             <h5>Hello, World.</h5>
-            <h1>I'm Juan Dela Cruz.</h1>
+            <h1>Je m'appelle Paul Noorman</h1>
 
             <p class="intro-position">
-                <span>Front-end Developer</span>
+                <span>WebDesigner</span>
                 <span>UI/UX Designer</span> 
             </p>
 

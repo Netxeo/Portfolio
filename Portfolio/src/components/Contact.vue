@@ -70,9 +70,8 @@
        <h5>Where to find me</h5>
 
        <p>
-    1600 Amphitheatre Parkway<br>
-    Mountain View, CA<br>
-    94043 US
+    2 rue de l'esviere<br>
+    49100 Angers
     </p>
 
    </div>
@@ -85,8 +84,8 @@
 
        <h5>Email Me At</h5>
 
-       <p>someone@kardswebsite.com<br>
-           info@kardswebsite.com			     
+       <p>p.noorman.pro@gmail.com<br>
+         p.noorman.pro@gmail.com			     
        </p>
 
    </div>

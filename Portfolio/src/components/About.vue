@@ -12,7 +12,7 @@
 
         <div class="intro-info">
 
-            <img src="/src/assets/profile-pic.jpg" alt="Profile Picture">
+            <img src="/src/assets/profile-pic.png" alt="Profile Picture">
 
             <p class="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
         </div>   			
@@ -34,19 +34,19 @@
             </li>
             <li>
                 <strong>Birth Date:</strong>
-                <span>September 28, 1987</span>
+                <span>June 30, 2001</span>
             </li>
             <li>
                 <strong>Job:</strong>
-                <span>Freelancer, Frontend Developer</span>
+                <span>Freelancer, Web Designer</span>
             </li>
             <li>
                 <strong>Website:</strong>
-                <span>www.kardswebsite.com</span>
+                <span>www.paulnoorman.com</span>
             </li>
             <li>
                 <strong>Email:</strong>
-                <span>me@kardswebsite.com</span>
+                <span>p.noorman.pro@gmail.com</span>
             </li>
 
         </ul>
