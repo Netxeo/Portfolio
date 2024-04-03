@@ -34,12 +34,12 @@
                </div>
 
                <div class="timeline-header">
-                   <h3>UI Designer</h3>
-                   <p>Juillet 2018 - Présent</p>
+                   <h3>Wordpress Developeur </h3>
+                   <p>Novembre 2023 - Janvier 2024</p>
                </div>
 
                <div class="timeline-content">
-                   <h4>Awesome Studio</h4>
+                   <h4>Digital Jouss</h4>
                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
                </div>
 
@@ -111,7 +111,7 @@
                </div>
 
                <div class="timeline-content">
-                   <h4>MydigitalSchool</h4>
+                   <h4>My Digital School</h4>
                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
                </div>
 

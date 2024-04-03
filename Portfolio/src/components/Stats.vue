@@ -100,7 +100,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Hours
+                    Heures
                 </h5>
 
             </div>

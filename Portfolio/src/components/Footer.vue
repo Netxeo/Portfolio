@@ -20,7 +20,7 @@
       	<div class="col-eight tab-full">
 	      	<div class="copyright">
 		        	<span>© Copyright 2018 </span> 
-		        	<span>Design by <a href="http://www.paulnoorman.com/">Paul Noorman</a></span>         	
+		        	<span>Design par <a href="http://www.paulnoorman.com/">Paul Noorman</a></span>         	
 		         </div>		                  
 	      	</div>
 
