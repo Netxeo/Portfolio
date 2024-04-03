@@ -20,7 +20,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Projects Completed
+                    Projets terminés
                 </h5>
 
             </div>				
@@ -36,7 +36,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Happy Clients
+                    Clients satisfaits
                 </h5>
 
             </div>
@@ -52,7 +52,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Awards Received
+                    Prix ​​reçus
                 </h5>
 
             </div>								
@@ -68,7 +68,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Crazy Ideas
+                    Des idées folles
                 </h5>
 
             </div>
@@ -84,7 +84,7 @@
                 </h3>
 
                 <h5 class="stat-title">
-                    Coffee Cups
+                    Tasses de café
                 </h5>
 
             </div>

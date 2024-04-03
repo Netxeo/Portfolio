@@ -8,7 +8,7 @@
    <div class="col-twelve">
 
        <h5>Portfolio</h5>
-       <h1>Check Out Some of My Works.</h1>
+       <h1>Découvrez certaines de mes projets.</h1>
 
        <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
@@ -131,8 +131,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>
@@ -151,8 +151,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>
@@ -171,8 +171,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>
@@ -191,8 +191,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>
@@ -211,8 +211,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>
@@ -231,8 +231,8 @@
                </div>
 
              <div class="link-box">
-                <a href="http://www.behance.net">Details</a>
-                  <a href="#" class="popup-modal-dismiss">Close</a>
+                <a href="http://www.behance.net">Détails</a>
+                  <a href="#" class="popup-modal-dismiss">Fermer</a>
              </div>		      
 
            </div>

@@ -7,8 +7,8 @@
 <div class="row section-intro">
    <div class="col-twelve">
 
-       <h5>Resume</h5>
-       <h1>More of my credentials.</h1>
+       <h5>Résumer</h5>
+       <h1>Plus de mes références.</h1>
 
        <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
@@ -19,7 +19,7 @@
 
    <div class="col-twelve resume-header">
 
-       <h2>Work Experience</h2>
+       <h2>Expérience professionnelle</h2>
 
    </div>
 
@@ -35,7 +35,7 @@
 
                <div class="timeline-header">
                    <h3>UI Designer</h3>
-                   <p>July 2015 - Present</p>
+                   <p>Juillet 2018 - Présent</p>
                </div>
 
                <div class="timeline-content">
@@ -53,7 +53,7 @@
 
                <div class="timeline-header">
                    <h3>Front-end Developer</h3>
-                   <p>July 2014 - June 2015</p>
+                   <p>Juillet 2024 - Présent</p>
                </div>
 
                <div class="timeline-content">
@@ -71,7 +71,7 @@
 
                <div class="timeline-header">
                    <h3>Web Designer</h3>
-                   <p>May 2013 - June 2014</p>
+                   <p>Mai 2018 - Présent</p>
                </div>
 
                <div class="timeline-content">
@@ -91,7 +91,7 @@
 
    <div class="col-twelve resume-header">
 
-       <h2>Education</h2>
+       <h2>Éducation</h2>
 
    </div>
 
@@ -106,12 +106,12 @@
                </div>
 
                <div class="timeline-header">
-                   <h3>Master Degree</h3>
-                   <p>July 2015 - Present</p>
+                   <h3>Bachelor diplôme</h3>
+                   <p>Juillet 2023 - Juin 2024</p>
                </div>
 
                <div class="timeline-content">
-                   <h4>University of Life</h4>
+                   <h4>MydigitalSchool</h4>
                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
                </div>
 
@@ -124,12 +124,12 @@
                </div>
 
                <div class="timeline-header">
-                   <h3>Bachelor Degree</h3>
-                   <p>July 2014 - June 2015</p>
+                   <h3>Maturité spécialisée Santé</h3>
+                   <p>Août 2019 - novembre 2020</p>
                </div>
 
                <div class="timeline-content">
-                   <h4>State Design University</h4>
+                   <h4>HEDS - Haute école de santé Fribourg</h4>
                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
                </div>
 
@@ -142,12 +142,12 @@
                </div>
 
                <div class="timeline-header">
-                   <h3>Bachelor Degree</h3>
-                   <p>May 2013 - June 2014</p>
+                   <h3>Bachelor Diplôme</h3>
+                   <p>Octobre 2021 - Juin 2023</p>
                </div>
 
                <div class="timeline-content">
-                   <h4>Design College</h4>
+                   <h4>CREASUP Digital - Tonnerre</h4>
                    <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
                </div>
 

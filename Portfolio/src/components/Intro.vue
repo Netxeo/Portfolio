@@ -11,7 +11,7 @@
 
         <div class="col-twelve">
 
-            <h5>Hello, World.</h5>
+            <h5>Bonjour le monde.</h5>
             <h1>Je m'appelle Paul Noorman</h1>
 
             <p class="intro-position">
@@ -19,7 +19,7 @@
                 <span>UI/UX Designer</span> 
             </p>
 
-            <a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
+            <a class="button stroke smoothscroll" href="#about" title="">Plus à propos de moi</a>
 
         </div>  
         

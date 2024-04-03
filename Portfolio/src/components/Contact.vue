@@ -8,7 +8,7 @@
    <div class="col-twelve">
 
        <h5>Contact</h5>
-       <h1>I'd Love To Hear From You.</h1>
+       <h1>J'aimerais avoir de vos nouvelles.</h1>
 
        <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
@@ -35,9 +35,9 @@
                  <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
            </div>                      
          <div class="form-field">
-             <button class="submitform">Submit</button>
+             <button class="submitform">Soumettre</button>
              <div id="submit-loader">
-                <div class="text-loader">Sending...</div>                             
+                <div class="text-loader">Envoi en cours...</div>                             
                      <div class="s-loader">
                               <div class="bounce1"></div>
                               <div class="bounce2"></div>
@@ -52,7 +52,7 @@
     <div id="message-warning">            	
     </div>            
       <div id="message-success">
-       <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+       <i class="fa fa-check"></i>Votre message a été envoyé, merci !<br>
       </div>
 
  </div>
@@ -67,7 +67,7 @@
            <i class="icon-pin"></i>
        </div>
 
-       <h5>Where to find me</h5>
+       <h5>Où me trouver</h5>
 
        <p>
     2 rue de l'esviere<br>
@@ -82,7 +82,7 @@
            <i class="icon-mail"></i>
        </div>
 
-       <h5>Email Me At</h5>
+       <h5>Envoyez-moi un e-mail à</h5>
 
        <p>p.noorman.pro@gmail.com<br>
          p.noorman.pro@gmail.com			     
@@ -96,11 +96,9 @@
            <i class="icon-phone"></i>
        </div>
 
-       <h5>Call Me At</h5>
+       <h5>Appelle moi a</h5>
 
-       <p>Phone: (+33) 767070426<br>
-           Mobile: (+33) 767070426<br>
-             Fax: (+33) 767070426
+       <p>Tel: (+33) 767070426<br>
        </p>
 
    </div>
