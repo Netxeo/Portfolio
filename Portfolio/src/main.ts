@@ -1,4 +1,4 @@
-import './css/main.css'
+import './css/theme.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
