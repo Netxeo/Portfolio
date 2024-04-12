@@ -84,8 +84,7 @@
 
        <h5>Envoyez-moi un e-mail à</h5>
 
-       <p>p.noorman.pro@gmail.com<br>
-         p.noorman.pro@gmail.com			     
+       <p>p.noorman.pro@gmail.com<br>			     
        </p>
 
    </div>
