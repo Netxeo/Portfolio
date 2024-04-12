@@ -439,7 +439,6 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
@@ -539,10 +538,10 @@ label > input[type="checkbox"], label > input[type="radio"] {
 	color: #a1a1a1;
 }
 :-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 18- */
+	color: #a1a1a1;
 }
 ::-moz-placeholder {
-	color: #a1a1a1;  /* Firefox 19+ */
+	color: #a1a1a1;
 }
 :-ms-input-placeholder {
 	color: #a1a1a1;
@@ -957,7 +956,7 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
+	background: url("/favicon.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -1116,7 +1115,7 @@ header .logo a {
 
 
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../assets/intro-bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1842,7 +1841,7 @@ header .logo a {
 }
 
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	background: #313131 url(../assets/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;

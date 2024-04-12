@@ -120,7 +120,7 @@
         <div id="modal-01" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/liberty.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-liberty.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -140,7 +140,7 @@
            <div id="modal-02" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/shutterbug.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-shutterbug.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -160,7 +160,7 @@
            <div id="modal-03" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/clouds.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-clouds.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -180,7 +180,7 @@
            <div id="modal-04" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/beetle.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-beetle.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -200,7 +200,7 @@
            <div id="modal-05" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/lighthouse.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-lighthouse.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
@@ -220,7 +220,7 @@
            <div id="modal-06" class="popup-modal slider mfp-hide">	
 
                  <div class="media">
-                     <img src="/src/assets/portfolio/salad.jpg" alt="" />
+                     <img src="/src/assets/portfolio/modals/m-salad.jpg" alt="" />
                  </div>      	
 
                <div class="description-box">
